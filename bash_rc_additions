@@ -1,0 +1,7 @@
+source $HOME/.bash_aliases
+export WORKON_HOME=$HOME/.virtualenvs
+export PROJECT_HOME=$HOME/Work
+export VIRTUALENVWRAPPER_VIRTUALENV=$HOME/.local/bin/virtualenv
+export VIRTUALENVWRAPPER_PYTHON=/usr/bin/python3
+source $HOME/.local/bin/virtualenvwrapper.sh
+
